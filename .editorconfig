@@ -1,0 +1,10 @@
+# editorconfig serve pra definir o estilo do código e formatar o código toda vez que ele for salvo, pra ficar padronizado e organizado - editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
