@@ -1,4 +1,5 @@
-# editorconfig serve pra definir o estilo do código e formatar o código toda vez que ele for salvo, pra ficar padronizado e organizado - editorconfig.org
+# editorconfig serve pra definir o estilo do código e formatar o código toda vez que ele for salvo, 
+# pra ficar padronizado e organizado - editorconfig.org
 root = true
 
 [*]
