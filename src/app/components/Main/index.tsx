@@ -1,12 +1,12 @@
-import { MainBackground, Wrapper } from './styles'
+import * as Styled from './styles'
 
 const Main = () => {
   return (
-    <MainBackground>
-      <Wrapper>
+    <Styled.MainBackground>
+      <Styled.Wrapper>
         <h1>Mtg-App!!</h1>
-      </Wrapper>
-    </MainBackground>
+      </Styled.Wrapper>
+    </Styled.MainBackground>
   )
 }
 
